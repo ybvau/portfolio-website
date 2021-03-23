@@ -11,16 +11,23 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Manufacturing Deep Tech 
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Currently refining competencies in manufacturer stacks & edge computing."
+  url: "https://scoutautonomy.com/"
 
-- name: Go Development
+- name: Technical Writing
   icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "Contracted whitepaper authoring, editing."
 
-- name: Cloud Computing
+- name: Data Interpretation
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Tableau, NumPy, Pandas, data visualization."
+
+- name: GIS Data Analysis
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Currently refnining my competencies in ESRI Suite, Pix4D, EZServ."
+
+- name: Entrepreneurship
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Fond of low burn-rates for extended periods of time. Peak interst in increasing early-stage startup capital longevity."
