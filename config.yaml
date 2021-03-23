@@ -24,10 +24,10 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/ybvau/website
+  gitRepo: https://github.com/ybvau/portfolio-website
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: false
+  enableBlogPost: fa
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
