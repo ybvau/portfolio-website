@@ -40,7 +40,7 @@ projects:
   tags: ["professional","education","academic"]
 
 - name: Arbitrage
-  logo: /images/sections/projects/toha.png
+  # logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Mar '20 - Present"
   # repo: https://github.com/hossainemruz/toha
@@ -48,7 +48,7 @@ projects:
   tags: ["hobby","entrepreneurship","econmics","professional"]
 
 - name: Abstraction
-  logo: /images/sections/projects/toha.png
+  # logo: /images/sections/projects/toha.png
   role: Author
   timeline: "Oct '20 - Present"
   # repo: https://github.com/hossainemruz/toha

@@ -32,6 +32,9 @@ socialLinks:
 - name: Medium
   icon: "fab fa-medium"
   url: "https://www.bryanhj.medium.com/"
+- name: Unsplash
+  icon: "fab fa-unsplash"
+  url: "https://www.unsplash.com/bryanhj"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
