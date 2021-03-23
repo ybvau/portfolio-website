@@ -6,13 +6,13 @@ greeting: "Howdy."
 # HASHED OUT image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
+  email: "bryan.herbert.jacobs@gmail.com"
+  phone: "+1 (847) 707-8408"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - Abstraction
+  - Accelerating Change
+  - Disaster Response
+  - Edge Computing
+  - Big Data
