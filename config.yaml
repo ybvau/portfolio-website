@@ -27,7 +27,7 @@ params:
   gitRepo: https://github.com/ybvau/portfolio-website
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: fa
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
