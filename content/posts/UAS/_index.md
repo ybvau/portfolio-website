@@ -1,8 +1,8 @@
 ---
-title: UAS
+title: UAGIS
 menu:
   sidebar:
-    name: UAS
-    identifier: UAS
+    name: UAGIS
+    identifier: UAGIS
     weight: 300
 ---
