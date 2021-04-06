@@ -1,7 +1,7 @@
 ---
 title: "Bramor PPX Checklist"
 date: 0
-hero: /images/posts/writing-posts/git.svg
+hero: assets/images/posts/mgc-me.jpg
 menu:
   sidebar:
     name: Bramor PPX Checklist
