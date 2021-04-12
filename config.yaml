@@ -36,4 +36,4 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
-  background: "./images/Capture.PNG"
+  background: "Root/assets/images/Capture.PNG"
